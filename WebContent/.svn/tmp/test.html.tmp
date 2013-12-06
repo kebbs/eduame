@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+<form action="services/challenge/start" method="post" >
+	serial<input name="serial" value="7CF36638F5643E2A858DC03ABBD72B6D" >
+	challenge_id<input name="challenge_id" value="837d60e19268f7e9762bdee84edf761c" >
+	<input type="submit" />
+</form>
+
+<form action="services/archivement/mine" method="get" >
+	serial:<input name="serial" value="b41013fb66c51b146ea91083dee813f4d8302c3a1382015228040">
+	<input type="submit" />
+</form>
+	
+</body>
+</html>

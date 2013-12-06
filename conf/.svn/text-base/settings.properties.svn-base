@@ -1,0 +1,11 @@
+
+#\u90AE\u4EF6\u76F8\u5173\u8BBE\u7F6E
+mail.smtp.host=smtp.exmail.qq.com
+mail.smtp.auth=true
+mail.smtp.username=investigate@djhealthunion.com.cn
+mail.smtp.password=dj1234
+
+
+#Server BaseURL  ; should end with "/"
+#server.baseUrl=http://192.168.140.198/investigate/
+server.baseUrl=http://localhost:8080/investigate/
